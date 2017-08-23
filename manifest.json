@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Is It Relevant?",
+  "version": "0.1.0",
+  "description": "Fades and distorts old articles on the web so you can see what’s fresh",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["scripts.js"],
+    "matches": ["*://*/*"]
+  }]
+
+}
