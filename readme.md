@@ -8,3 +8,8 @@ Tells you if an article is over a week old.
 - Daily Mail
 - Guardian
 - Financial Times
+
+## Works but with bugs
+
+- New York Times
+
