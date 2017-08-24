@@ -13,3 +13,6 @@ Tells you if an article is over a week old.
 
 - New York Times
 
+## Does not work
+
+- The Sun
